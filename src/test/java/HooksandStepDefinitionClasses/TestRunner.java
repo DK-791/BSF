@@ -10,7 +10,8 @@ import cucumber.api.junit.Cucumber;
 		features=".//src//test//resources//Feature Files//WorkOrder.feature",
 		glue={"HooksandStepDefinitionClasses"},
 		dryRun=false,
-		monochrome=true
+		monochrome=true,
+		plugin={"json:target//BSF.json","html:target//reports"}
 		)
 
 
