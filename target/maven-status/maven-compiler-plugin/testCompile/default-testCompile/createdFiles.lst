@@ -1,0 +1,7 @@
+CommonMethods\CommonMethods.class
+HooksandStepDefinitionClasses\LoginStepDefinition.class
+Locators\LoginLocators.class
+Locators\OrderWizardLocators.class
+HooksandStepDefinitionClasses\TestRunner.class
+HooksandStepDefinitionClasses\WorkOrderStepDefinition.class
+HooksandStepDefinitionClasses\Hooks.class
